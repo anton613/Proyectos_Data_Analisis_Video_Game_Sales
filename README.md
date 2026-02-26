@@ -74,22 +74,28 @@ Las regiones analizadas incluyen:
 ```
 proyectos de data analytics/
 ├── README.md
-├── Analisis de Jugos.ipynb    # Notebook principal con el análisis
+├── requirements.txt              # Dependencias del proyecto
+├── Analisis de Jugos.ipynb       # Notebook principal con el análisis
 └── CSV/
-    └── vgsales.csv           # Dataset de ventas de videojuegos
+    └── vgsales.csv               # Dataset de ventas de videojuegos
 ```
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
 ### Prerrequisitos
+Instala las dependencias del proyecto usando el archivo `requirements.txt`:
 ```bash
-pip install pandas matplotlib jupyter
+pip install -r requirements.txt
 ```
 
 ### Ejecución
 1. Clona o descarga el repositorio
 2. Navega al directorio del proyecto
-3. Ejecuta Jupyter Notebook:
+3. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Ejecuta Jupyter Notebook:
    ```bash
    jupyter notebook "Analisis de Jugos.ipynb"
    ```
