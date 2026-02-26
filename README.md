@@ -120,6 +120,24 @@ pip install -r requirements.txt
 - **Japón**: Mercado importante para géneros específicos
 - **Otros**: Mercados emergentes en crecimiento
 
+## 📊 Dashboard y Visualizaciones
+
+### Estructura de Datos
+
+**Estructura de Datos Raw**
+![Estructura Datos Raw](Img%20Dashboard/Estructura%20Datos%20Raw.PNG)
+
+**Esquema Estrella del Modelo de Datos**
+![Esquema Estrella](Img%20Dashboard/Esquema%20Estrella.PNG)
+
+### Dashboards Interactivos
+
+**Dashboard Principal - Vista 1**
+![Dashboard 1](Img%20Dashboard/dashboard%201.PNG)
+
+**Dashboard Principal - Vista 2**
+![Dashboard 2](Img%20Dashboard/dashboard%202.PNG)
+
 ## 🎯 Insights Clave
 
 1. **Dominio de Nintendo**: Presencia fuerte en los juegos más vendidos
